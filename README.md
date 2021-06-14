@@ -1,6 +1,6 @@
 # Simulacion de Estadisticas Covid-19 Mexico
 
-Materia: Graaficacion y Multimedia
+Materia: Graficacion y Multimedia
 
 Carrera: IDS - TV
 
